@@ -1,0 +1,3 @@
+Name:pooja
+skills:sql,manual testing,html,css,javascript,api testing
+email:poojagidamallanavar151@gmail.com
